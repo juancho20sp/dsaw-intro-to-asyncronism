@@ -16,9 +16,9 @@
 
 
 # Documentos sugeridos
-- (¿Qué es figma?)[https://www.youtube.com/watch?v=1pW_sk-2y40&pp=ygUMZmlnbWEgY291cnNl]
-- (Figma en 24 minutos)[https://www.youtube.com/watch?v=FTFaQWZBqQ8&t=22s&pp=ygUMZmlnbWEgY291cnNl]
-- (¿Cómo manejar el asíncronismo correctamente?)[https://www.youtube.com/watch?v=vn3tm0quoqE&pp=ygUWYXN5bmMgYXdhaXQgamF2YXNjcmlwdA%3D%3D]
+- [¿Qué es figma?](https://www.youtube.com/watch?v=1pW_sk-2y40&pp=ygUMZmlnbWEgY291cnNl)
+- [Figma en 24 minutos](https://www.youtube.com/watch?v=FTFaQWZBqQ8&t=22s&pp=ygUMZmlnbWEgY291cnNl)
+- [¿Cómo manejar el asíncronismo correctamente?](https://www.youtube.com/watch?v=vn3tm0quoqE&pp=ygUWYXN5bmMgYXdhaXQgamF2YXNjcmlwdA%3D%3D)
 
 
 ## Rúbrica
